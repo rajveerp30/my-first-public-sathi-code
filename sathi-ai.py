@@ -1,6 +1,6 @@
 import os
 import re
-import json
+import json        
 import threading
 import datetime
 import queue
@@ -669,3 +669,5 @@ tray_thread.start()
 
 if __name__ == '__main__':
     root.mainloop()
+
+# made by teendev's. https://teendev8.netlify.app/
